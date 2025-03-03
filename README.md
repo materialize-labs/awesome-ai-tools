@@ -76,6 +76,9 @@ A curated list of AI/LLM-related tools, services, developer resources, and more.
 - **[modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)** – Protocol-driven servers for building AI context-based solutions.  
 - **[mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt)** – CLI tool that converts codebases into a single LLM prompt with token counting.  
 - **[executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright)** – Playwright + Model Context Protocol to automate browsers & APIs with AI.
+- - **[Cursor Starter Kits (mckaywrigley/mckays-app-template)](https://github.com/mckaywrigley/mckays-app-template)** – Starter kit for building AI apps in Cursor, including best practices and scaffolding.  
+- **[Cursor Context Boundary Document Generation (codeguide.dev)](https://www.codeguide.dev/)** – Resource for generating context boundaries in Cursor for more robust AI references.  
+- **[MCP servers - Cursor Directory](https://cursor.directory/mcp)** – Directory listing of Model Context Protocol servers integrated with Cursor.
 
 ## Model Hosting
 - **[Together AI](https://www.together.ai/)** – AI Acceleration Cloud for training, inference, and fine-tuning.  
@@ -106,7 +109,8 @@ A curated list of AI/LLM-related tools, services, developer resources, and more.
 - **[v0.dev](https://v0.dev/)** – A Vercel-hosted platform for launching AI-driven services instantly.
 
 ## Chatbot Libraries
-- **[assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)** – TypeScript/React library for building customizable AI chat UIs.
+- **[assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui)** – TypeScript/React library for building customizable AI chat UIs.  
+- **[mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)** – Open-source ChatGPT-style interface you can run on your own data or API.
 
 ## Voice
 - **[Vapi](https://www.vapi.ai/#features)** – Enterprise-ready voice AI agents with advanced speech interactions.  
