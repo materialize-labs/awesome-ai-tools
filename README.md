@@ -19,7 +19,6 @@ A curated list of AI/LLM-related tools, services, developer resources, and more.
 - [AI Builders](#ai-builders)
 - [Chatbot Libraries](#chatbot-libraries)
 - [Voice](#voice)
-- [Bonus: Misc.](#bonus-misc)
 - [Contributing](#contributing)
 - [License](#license)
 
